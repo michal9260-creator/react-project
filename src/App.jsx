@@ -1,33 +1,13 @@
-// import Father from './components/father';
 
-// function App() {
-//   return (
-//     <div>
-//       <Father />
-//     </div>
-//   );
-// }
-// import React from 'react';
-// import BookList from './components/BookList';
-
-// function App() {
-//   return (
-//     <div>
-//       <BookList />
-//     </div>
-//   );
-// }
-
-// export default App;
 import React from 'react';
-import PersonDetails from './components/PersonDetails';
+import School from './components/School';
 
 function App() {
-  return (
-    <div>
-      <PersonDetails />
-    </div>
-  );
+    return (
+        <div>
+            <School />
+        </div>
+    );
 }
 
 export default App;
